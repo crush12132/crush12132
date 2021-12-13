@@ -3,9 +3,9 @@
 
 ### I'm Xueyu Jiang
 
-- 海南大学信息安全专业  方向前端
+- 海南大学信息安全专业  
 - 💬 2646507120@qq.com
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ 方向前端
 
 ### 🛠 技术栈 | Tech Stack
 
