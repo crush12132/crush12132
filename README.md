@@ -3,9 +3,6 @@
 
 ### I'm Xueyu Jiang
 
-- 海南大学 信息安全专业  
-- 💬 2646507120@qq.com
-- ⚡ 方向前端
 
 ### 🛠 技术栈 | Tech Stack
 
